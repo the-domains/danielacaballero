@@ -1,0 +1,28 @@
+name: Danielacaballero
+favicon: null
+layout_spectrum: 0.625271521974355
+typography_spectrum: 0.3879382952582091
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7131373297888786
+  lightness: 0.21974149369634688
+  saturation: 0.26231999252922833
+  rhythmicContrast: 0.3221158245578408
+purpose: []
