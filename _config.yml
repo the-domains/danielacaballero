@@ -1,5 +1,4 @@
-favicon: null
-name: Danielacaballero
+layout_spectrum: 0.1618877
 opengraph:
   image: null
   type: null
@@ -10,26 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7640382
   brandStrength: 1
   lightness: 0.9504181
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#606060'
-    - '#CF6E77'
-    - '#4265E0'
+    - '#000001'
+    - '#D8E1E8'
+    - '#757570'
+    - '#02A3CE'
+    - '#80DEFA'
   rhythmicContrast: 0.281362
 typography_spectrum: 0.5681003
-layout_spectrum: 0.1618877
 cta:
   bucket: null
   version: null
@@ -38,3 +36,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Danielacaballero
